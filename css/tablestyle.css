@@ -1,0 +1,40 @@
+/* table.myTable {
+    border: solid 10px blue;
+    background-color: #9c1b1b;
+    width: 50%;
+   }
+   table.myTable > caption {
+    text-align: left;
+    font-style: italic;
+    font-variant: small-caps;
+   }
+  
+   table
+{
+ border: solid 1px #000000; 
+}
+table thead
+{
+ background-color: #c508eb; /*lightblue */
+
+table tfoot
+{
+ background-color: #f5f508; /* lightyellow */
+ font-weight: bold;
+}
+.browsers
+{
+    background-color: aqua;
+
+} */
+#belangrijk
+ {
+    color: rgb(144, 0, 255);
+    font-weight: bold;
+   }
+.olijfgroen
+ {
+    color: greenyellow;
+   }
+   
+   

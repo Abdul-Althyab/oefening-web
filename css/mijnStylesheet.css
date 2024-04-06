@@ -1,0 +1,19 @@
+p { 
+   margin: 0 20px 50px 25px;
+   padding: 20px;
+   }
+   h1{
+      border: 3px solid black;
+   }
+   span{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+   }
+   body{
+    background-color: orange;
+
+   }
+   h2{
+    background-color:greenyellow;
+   }

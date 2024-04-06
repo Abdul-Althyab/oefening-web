@@ -1,0 +1,55 @@
+
+body{
+    margin: 10px 150px 50px 150px;
+    background-color: lightgoldenrodyellow;
+}
+h1
+{
+    color: red;
+   
+}
+span{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+div
+{
+    padding: 5px 10px 15px 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 127, 0, 0.25);
+    border: 1px solid darkred;
+    border-radius: 50px 0 50px 0;
+}
+
+H3#asd      
+ { 
+    color: #2f1358; 
+    background-color: #FFFFFF;
+    font-size: 28px; 
+    text-align: justify;
+    white-space: onwarp;
+    
+    
+}
+.speciaal { color: #336699; background-color: #FFFFFF; }
+
+#ab03x    { color: #FF0000; background-color: #FFFFFF; }
+
+.topAlign
+{
+      vertical-align: top;
+}
+.bottomAlign{vertical-align: bottom;}
+.middelAlign{float: left;}
+
+.een
+  {
+    list-style-image: url("C:/Users/Studente/Desktop/Wep projecten/Oefeningen Web/Round-Shape.png");
+  
+    list-style-position: outside;
+  }
+  /* ul
+     {
+        list-style: decimal inside url("C:/Users/Studente/Desktop/Wep projecten/Oefeningen Web/Round-Shape.png");
+     } */

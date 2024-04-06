@@ -1,0 +1,44 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgray;
+}
+/* header
+{
+    background-image: url("C:/Users/Studente/Downloads/Image20231204135836.png");
+    width: 800px;
+    height: 300px;
+}
+ */
+nav ul
+      {
+        list-style: decimal;
+        color: blue;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+       
+      }
+
+      nav li 
+            {
+                font-family: sans-serif;
+                font-size: 1.2em;
+                line-height: 40px;
+                height: 40px;
+                display: inline-block;
+                width: 120px;
+            }
+
+        nav a
+        {
+            text-decoration: none;
+            color: white;
+            display: block;
+        }
+        nav a:hover
+        {
+           border-bottom: 1px solid rebeccapurple;
+        }
+        
